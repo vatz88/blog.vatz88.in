@@ -29,7 +29,7 @@
 		"lint:fix": "yarn lint --fix"
 	},
 	"engines": {
-		"node": ">=10"
+		"node": ">=22"
 	},
 	"husky": {
 		"hooks": {
