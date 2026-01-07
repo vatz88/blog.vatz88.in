@@ -1,6 +1,4 @@
+# Netlify configuration
 [build]
-  command = "yarn build"
-  publish = "/opt/build/repo"
-
-[build.environment]
-  NODE_VERSION = "22"
+  publish = "."
+  command = "npm run build"
