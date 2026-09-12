@@ -11,7 +11,7 @@ exports[`Article builder should build correct html for all-you-need-to-Know-abou
         	<link rel=\\"icon\\" sizes=\\"192x192\\" href=\\"/static/media/icon_192x192.png\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://www.google-analytics.com\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://blog-by-vatsal-joshi.disqus.com\\">
-        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=2433dc550054c5dce4668ce7baefc7d9\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
+        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=85f1a223705d93deef50a24b5eb213f17bf49abf488ebe44cc18b4cb69b7d745\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
         </head>
         <body>
         	<script async src=\\"https://www.googletagmanager.com/gtag/js?id=UA-75111209-4\\"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-75111209-4');</script>
@@ -80,7 +80,7 @@ exports[`Article builder should build correct html for all-you-need-to-Know-abou
 <footer>
     © <a href=\\"https://vatz88.in\\" target=\\"_blank\\" rel=\\"noopener\\">Vatsal Joshi</a>
 </footer>
-        	<script src=\\"/static/js/script.js?v=a6fdc4c7deff9d17fcff71c4bb07a0cb\\"></script>
+        	<script src=\\"/static/js/script.js?v=cabdb1f596cf89b027f49f1c309dd0695eb546735ece16eb3868c997fbbfcdba\\"></script>
         </body>
         </html>"
 `;
@@ -96,7 +96,7 @@ exports[`Article builder should build correct html for components-with-async-fri
         	<link rel=\\"icon\\" sizes=\\"192x192\\" href=\\"/static/media/icon_192x192.png\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://www.google-analytics.com\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://blog-by-vatsal-joshi.disqus.com\\">
-        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=2433dc550054c5dce4668ce7baefc7d9\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
+        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=85f1a223705d93deef50a24b5eb213f17bf49abf488ebe44cc18b4cb69b7d745\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
         </head>
         <body>
         	<script async src=\\"https://www.googletagmanager.com/gtag/js?id=UA-75111209-4\\"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-75111209-4');</script>
@@ -171,7 +171,7 @@ exports[`Article builder should build correct html for components-with-async-fri
 <footer>
     © <a href=\\"https://vatz88.in\\" target=\\"_blank\\" rel=\\"noopener\\">Vatsal Joshi</a>
 </footer>
-        	<script src=\\"/static/js/script.js?v=a6fdc4c7deff9d17fcff71c4bb07a0cb\\"></script>
+        	<script src=\\"/static/js/script.js?v=cabdb1f596cf89b027f49f1c309dd0695eb546735ece16eb3868c997fbbfcdba\\"></script>
         </body>
         </html>"
 `;
@@ -187,7 +187,7 @@ exports[`Article builder should build correct html for home page 1`] = `
         	<link rel=\\"icon\\" sizes=\\"192x192\\" href=\\"/static/media/icon_192x192.png\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://www.google-analytics.com\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://blog-by-vatsal-joshi.disqus.com\\">
-        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=2433dc550054c5dce4668ce7baefc7d9\\"><link rel=\\"stylesheet\\" href=\\"/static/css/homescreen-fonts.css\\">
+        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=85f1a223705d93deef50a24b5eb213f17bf49abf488ebe44cc18b4cb69b7d745\\"><link rel=\\"stylesheet\\" href=\\"/static/css/homescreen-fonts.css\\">
         </head>
         <body>
         	<script async src=\\"https://www.googletagmanager.com/gtag/js?id=UA-75111209-4\\"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-75111209-4');</script>
@@ -211,7 +211,7 @@ exports[`Article builder should build correct html for home page 1`] = `
 <footer>
     © <a href=\\"https://vatz88.in\\" target=\\"_blank\\" rel=\\"noopener\\">Vatsal Joshi</a>
 </footer>
-        	<script src=\\"/static/js/script.js?v=a6fdc4c7deff9d17fcff71c4bb07a0cb\\"></script><script src=\\"/static/js/instantpage.v5.1.0.min.js\\"></script>
+        	<script src=\\"/static/js/script.js?v=cabdb1f596cf89b027f49f1c309dd0695eb546735ece16eb3868c997fbbfcdba\\"></script><script src=\\"/static/js/instantpage.v5.1.0.min.js\\"></script>
         </body>
         </html>"
 `;
@@ -227,7 +227,7 @@ exports[`Article builder should build correct html for setting-up-ubuntu-on-asus
         	<link rel=\\"icon\\" sizes=\\"192x192\\" href=\\"/static/media/icon_192x192.png\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://www.google-analytics.com\\">
 			<link rel=\\"dns-prefetch\\" href=\\"https://blog-by-vatsal-joshi.disqus.com\\">
-        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=2433dc550054c5dce4668ce7baefc7d9\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
+        	<link rel=\\"stylesheet\\" href=\\"/static/css/style.css?v=85f1a223705d93deef50a24b5eb213f17bf49abf488ebe44cc18b4cb69b7d745\\"><link rel=\\"stylesheet\\" href=\\"/static/css/highlight.css\\">
         </head>
         <body>
         	<script async src=\\"https://www.googletagmanager.com/gtag/js?id=UA-75111209-4\\"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-75111209-4');</script>
@@ -388,7 +388,7 @@ gksu nautilus
 <footer>
     © <a href=\\"https://vatz88.in\\" target=\\"_blank\\" rel=\\"noopener\\">Vatsal Joshi</a>
 </footer>
-        	<script src=\\"/static/js/script.js?v=a6fdc4c7deff9d17fcff71c4bb07a0cb\\"></script>
+        	<script src=\\"/static/js/script.js?v=cabdb1f596cf89b027f49f1c309dd0695eb546735ece16eb3868c997fbbfcdba\\"></script>
         </body>
         </html>"
 `;

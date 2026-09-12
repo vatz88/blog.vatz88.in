@@ -9,6 +9,27 @@ const articleDirs = getArticlesDirArr();
 const pageIdentifierArr = [];
 
 describe('Build articles', () => {
+	it('should not treat hidden or tooling directories as articles', () => {
+		const netlifyDir = path.resolve(__dirname, '..', '.netlify');
+		fs.mkdirSync(netlifyDir, { recursive: true });
+		try {
+			expect(getArticlesDirArr()).not.toEqual(
+				expect.arrayContaining([
+					'.git',
+					'.github',
+					'.netlify',
+					'.vscode',
+					'lib',
+					'node_modules',
+					'static',
+					'__tests__',
+				]),
+			);
+		} finally {
+			fs.rmdirSync(netlifyDir);
+		}
+	});
+
 	it.each(articleDirs)('%s should have README.md', dirName => {
 		const hasReadme = fs.existsSync(
 			path.resolve(__dirname, '..', dirName, 'README.md'),
